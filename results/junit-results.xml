@@ -1,1 +1,6 @@
 
+<testsuites>
+  <testsuite name="...">
+    <testcase name="..." />
+  </testsuite>
+</testsuites>
